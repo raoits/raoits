@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raoits&layout=compact&show_icons=true&theme=onedark)
 
-### software i use
-
 ![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&labelColor=000000&logo=Windows&logoColor=white)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&labelColor=000000&logo=Linux&logoColor=white)
 
@@ -34,11 +32,9 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Photo_editor-Affinity_Photo-informational?style=for-the-badge&labelColor=000000&logo=Affinity-Photo&logoColor=white)
 ![](https://img.shields.io/badge/publishing_software-Affinity_Publisher-informational?style=for-the-badge&labelColor=000000&logo=Affinity-Publisher&logoColor=white)
 
-### languages i've used in the past
 ![](https://img.shields.io/badge/Language-c%23-informational?style=for-the-badge&labelColor=000000&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/Language-PHP-informational?style=for-the-badge&labelColor=000000&logo=php&logoColor=white)
 
-### languages i use
 ![](https://img.shields.io/badge/Language-Html-informational?style=for-the-badge&labelColor=000000&logo=HTML5&logoColor=white)
 ![](https://img.shields.io/badge/Language-Css-informational?style=for-the-badge&labelColor=000000&logo=CSS3&logoColor=white)
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=for-the-badge&labelColor=000000&logo=JavaScript&logoColor=white)
