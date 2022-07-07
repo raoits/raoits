@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&labelColor=000000&logo=Windows&logoColor=white)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&labelColor=000000&logo=Linux&logoColor=white)
 
-![](https://img.shields.io/badge/IDE-Atom-informational?style=for-the-badge&labelColor=000000&logo=Atom&logoColor=white)
+![](https://img.shields.io/badge/IDE-VSCodium-informational?style=for-the-badge&labelColor=000000&logo=Visual-Studio-Code&logoColor=white)
 ![](https://img.shields.io/badge/Version_manager-Git-informational?style=for-the-badge&labelColor=000000&logo=Git&logoColor=white)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=for-the-badge&labelColor=000000&logo=MongoDB&logoColor=white)
-![](https://img.shields.io/badge/Web_Server-nginx-informational?style=for-the-badge&labelColor=000000&logo=nginx&logoColor=white)
+![](https://img.shields.io/badge/Web_Server-caddy-informational?style=for-the-badge&labelColor=000000&logo=nginx&logoColor=white)
 ![](https://img.shields.io/badge/Web_Browser-Firefox-informational?style=for-the-badge&labelColor=000000&logo=Firefox-Browser&logoColor=white)
 ![](https://img.shields.io/badge/Command_Line-bash-informational?style=for-the-badge&labelColor=000000&logo=PowerShell&logoColor=white)
 ![](https://img.shields.io/badge/Command_Line-PowerShell-informational?style=for-the-badge&labelColor=000000&logo=PowerShell&logoColor=white)
