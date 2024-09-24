@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raoits&layout=compact&show_icons=true&theme=onedark)
 
 ## desktop os
-![](https://img.shields.io/badge/Work_laptop-MacOS-informational?style=for-the-badge&labelColor=000000&logo=apple&logoColor=white)
+![](https://img.shields.io/badge/Work_laptop-Ubuntu%20Desktop-informational?style=for-the-badge&labelColor=000000&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Personal_laptop-Windows-informational?style=for-the-badge&labelColor=000000&logo=Windows&logoColor=white)
 ![](https://img.shields.io/badge/Backup_laptop-Xubuntu-informational?style=for-the-badge&labelColor=000000&logo=xfce&logoColor=white)
 
